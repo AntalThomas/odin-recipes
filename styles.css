@@ -1,0 +1,29 @@
+footer {
+    color: darkgreen;
+    background-color: darkviolet;
+    font-size: 200;
+    font-weight: bold;
+}
+a footer::before {
+    color:red;
+    background-color: aliceblue;
+}
+h1 {
+    font-weight: 800;
+    font-style: bold;
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol {
+    color:aqua;
+    font-style: italic;
+}
+ul {
+    color: blanchedalmond;
+    font-style: normal;
+}
+img {
+    width: auto;
+    height: 350px;
+}
